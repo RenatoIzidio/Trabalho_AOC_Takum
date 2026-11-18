@@ -22,9 +22,9 @@ O comando executa 49 testes e regenera os resultados de 34 matrizes com a sement
 
 | Parte | Implementação | Verificação e documentação |
 |---|---|---|
-| Aritmética Takum linear T8, T16 e T32 | takum.py | test_takum.py, VALIDACAO_FASE_1.md |
-| Simulador funcional da extensão vetorial | rvv_takum.py | test_rvv_takum.py, FASE_02.md |
-| Benchmark de SpMV, formatos e métricas | spmv_benchmark.py | test_spmv_benchmark.py, FASE_03.md |
+| Aritmética Takum linear T8, T16 e T32 | takum.py |
+| Simulador funcional da extensão vetorial | rvv_takum.py | 
+| Benchmark de SpMV, formatos e métricas | spmv_benchmark.py | 
 
 A comparação adicional com a biblioteca C de referência usa `validate_libtakum.py`. Para reproduzi-la em Linux, obtenha a versão indicada abaixo, compile a biblioteca e informe o caminho do arquivo compartilhado:
 
