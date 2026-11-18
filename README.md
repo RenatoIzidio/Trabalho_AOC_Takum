@@ -20,8 +20,8 @@ O comando executa 49 testes e regenera os resultados de 34 matrizes com a sement
 
 ## Conteúdo
 
-| Parte | Implementação | Verificação e documentação |
-|---|---|---|
+| Parte | Implementação |
+|---|---|
 | Aritmética Takum linear T8, T16 e T32 | takum.py |
 | Simulador funcional da extensão vetorial | rvv_takum.py | 
 | Benchmark de SpMV, formatos e métricas | spmv_benchmark.py | 
