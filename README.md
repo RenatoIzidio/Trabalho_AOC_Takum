@@ -1,4 +1,4 @@
-# Zvtakum · Projeto Integrador de Arquitetura e Organização de Computadores
+# Zvtakum · Projeto Integrador Arquitetura e Organização de Computadores
 
 **Engenharia Eletrônica · UFMG · 2026/02**  
 **Autores:** Luiz Fernando Esteves Soares, Renato Pedro Izidio Lopes e Tulio Cesar de Lima Miranda
